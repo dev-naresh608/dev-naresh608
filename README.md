@@ -1,4 +1,3 @@
-<img width="935" height="219" alt="image" src="https://github.com/user-attachments/assets/142903d0-cccf-4282-be51-abc5d1035fc1" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:082f33,50:155e75,100:0891b2&height=260&section=header&text=Naresh%20Chaudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 

@@ -1,9 +1,9 @@
-<div align="center">
+<img width="935" height="219" alt="image" src="https://github.com/user-attachments/assets/142903d0-cccf-4282-be51-abc5d1035fc1" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:082f33,50:155e75,100:0891b2&height=260&section=header&text=Naresh%20Chaudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/dev-naresh608">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%C2%B7+Clean+Architecture+%C2%B7+Performance;Full+Stack+Engineer+%7C+Product+Minded" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;React+%7C+Typescript+%7C+Node.js+%7C+MongoDB;Clean+Code+%C2%B7+Clean+Architecture+%C2%B7+Performance;Full+Stack+Engineer+%7C+Product+Minded" alt="Typing SVG" />
 </a>
 
 <br/>

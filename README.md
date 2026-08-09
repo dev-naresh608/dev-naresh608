@@ -132,83 +132,84 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 | Component Architecture | ⭐⭐⭐⭐⭐ | Composable, reusable, prop-driven React component systems |
 
 ---
-
 ## 🟣 Featured Projects
 
-<details open>
-<summary><b>🚀 EdgeSync — Flagship Production-Grade Platform</b></summary>
+<div align="center">
 
-<br/>
+<table>
+<tr>
 
-**Purpose**
-EdgeSync is my flagship project — a production-grade platform engineered to demonstrate real-world, enterprise-style system design rather than a tutorial-scale build. It focuses on reliability, secure data flow, and a UI that performs well under real usage conditions.
+<td width="33%" valign="top">
 
-**Architecture**
-Built on a layered architecture with a clear separation between the presentation layer (React/Next.js), the API layer (Express.js controllers and services), and the data layer (MongoDB with Mongoose schemas). Business logic lives in dedicated service modules, keeping controllers thin and testable.
+### 🟢 SupplyNest
 
-**Tech Stack**
-React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT.
+**Enterprise Distribution & Inventory Management**
 
-**Key Features**
-- Secure authentication with token refresh handling
-- Modular, reusable component library
-- API layer designed around consistent request/response contracts
-- Environment-based configuration for multi-stage deployment
+A full-stack platform for managing products, inventory, stock transactions, and role-based business workflows.
 
-**Scalability**
-Designed with horizontally-scalable services in mind — stateless API layers that can sit behind a load balancer, with session state externalized rather than held in memory.
+**Stack**  
+`React` `Node.js` `Express` `MongoDB`
 
-**Performance**
-Optimized data-fetching patterns (memoization, pagination, lazy-loaded routes) to keep interaction latency low even as data volume grows.
+**Highlights**
+- Modular backend architecture
+- Inventory & stock transactions
+- JWT + RBAC
+- Role-based workflows
 
-**Security**
-JWT-based auth, input validation at the API boundary, and role-aware middleware guarding sensitive routes.
+[**View Project →**](https://github.com/dev-naresh608/supplynest)
 
-**Repository**
-<a href="https://github.com/dev-naresh608/edgesync">github.com/dev-naresh608/edgesync</a>
+</td>
 
-**Future Roadmap**
-Introducing Redis-based caching, containerizing services with Docker, and moving toward a microservice-oriented split for high-traffic modules.
+<td width="33%" valign="top">
 
-| Stack | Architecture | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| MERN + Tailwind | Layered / Service-Oriented | Optimized fetch & render paths | JWT + Validation | Core flagship engineering showcase | <a href="https://github.com/dev-naresh608/edgesync">Link</a> |
+### 🔵 EdgeSync
 
-</details>
+**Distributed Resource Delivery Platform**
 
-<br/>
+A distributed systems project focused on reliable resource delivery across geographically separated servers.
 
-<details>
-<summary><b>🛒 Novexa — Multi-Vendor Ecommerce Platform</b></summary>
+**Stack**  
+`Node.js` `Express` `MongoDB` `React`
 
-<br/>
+**Highlights**
+- Multi-server architecture
+- Retry & fallback handling
+- Secure server communication
+- Distributed resource delivery
+</br>
 
-Novexa is a multi-vendor ecommerce platform engineered around four distinct actor roles — **Customer, Seller, Driver, and Admin** — each with its own dashboard, permissions, and workflows. The system uses **JWT authentication** paired with **RBAC** to ensure every actor can only access the actions and data relevant to their role.
+[**View Project →**](https://github.com/dev-naresh608/edgesync)
 
-Sellers manage their own product catalogs, drivers handle delivery assignment and status updates, admins oversee platform-wide moderation, and customers move through a standard browse-cart-checkout flow. Product imagery is handled through **Cloudinary**, keeping media delivery fast and decoupled from the core application server. The backend exposes a set of **REST APIs** backed by **MongoDB**, with schemas designed to support role-specific queries efficiently.
+</td>
 
-| Stack | Architecture | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| MERN + Cloudinary | Role-Based Multi-Actor System | Indexed queries per role dashboard | JWT + RBAC | Simulates real marketplace complexity | <a href="https://github.com/dev-naresh608/novexa">Link</a> |
+<td width="33%" valign="top">
 
-</details>
+### 🟠 Novexa
 
-<br/>
+**Multi-Vendor E-Commerce Platform**
 
-<details>
-<summary><b>✍️ VerseLog — Full Stack Blogging Platform</b></summary>
+A marketplace platform connecting customers, sellers, drivers, and admins through role-specific workflows.
 
-<br/>
+**Stack**  
+`React` `Node.js` `Express` `MongoDB`
 
-VerseLog is a modern full stack blogging platform built around clean **CRUD** operations, **JWT authentication**, and a fully responsive **React** interface. It supports authoring, editing, and publishing workflows backed by a **REST API** layer, with **MongoDB** storing post, author, and comment data.
+**Highlights**
+- 4-role architecture
+- JWT + RBAC
+- Cart & order workflows
+- Cloudinary media storage
+</br>
 
-The frontend emphasizes readability and responsiveness across devices, while the backend keeps a clear contract between routes, controllers, and models — making the codebase easy to extend with features like categories, tagging, or search.
+[**View Project →**](https://github.com/dev-naresh608/novexa)
 
-| Stack | Architecture | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| MERN Stack | MVC / REST | Optimized read-heavy queries | JWT Auth | Demonstrates end-to-end CRUD mastery | <a href="https://github.com/dev-naresh608/verselog">Link</a> |
+</td>
 
-</details>
+</tr>
+</table>
+
+</div>
+```
+
 
 ---
 

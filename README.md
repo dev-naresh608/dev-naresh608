@@ -288,17 +288,6 @@ CGPA: **7.7**
 </div>
 
 ---
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-naresh608&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
 ## 🟣 Contribution Graph
 
 <div align="center">
@@ -361,7 +350,7 @@ open_to:
 <a href="https://github.com/dev-naresh608">
   <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=082f33"/>
 </a>
-<a href="https://dev-naresh608.github.io">
+<a href="https://naresh-portfolio-lime.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=082f33"/>
 </a>
 

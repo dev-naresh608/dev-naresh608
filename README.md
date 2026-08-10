@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=082f33"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack%20Roles-0D9488?style=for-the-badge&logo=handshake&logoColor=white&labelColor=082f33"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://dev-naresh608.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=082f33"/>
@@ -26,12 +26,7 @@
   <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=082f33"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dev-naresh608&label=Profile%20Views&color=0891b2&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/dev-naresh608?label=Followers&style=flat-square&color=0e7490&labelColor=082f33"/>
-<img src="https://img.shields.io/github/stars/dev-naresh608?affiliations=OWNER&style=flat-square&color=06b6d4&labelColor=082f33&label=Repository%20Stars"/>
-
+<br/>
 </div>
 
 <br/>

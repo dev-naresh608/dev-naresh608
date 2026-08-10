@@ -193,36 +193,11 @@ CGPA: **7.7**
 </div>
 
 ---
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-naresh608&show_icons=true&theme=radical&hide_border=true&bg_color=082f33&title_color=22D3EE&icon_color=06B6D4&text_color=CFFAFE" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-naresh608&layout=compact&theme=radical&hide_border=true&bg_color=082f33&title_color=22D3EE&text_color=CFFAFE" width="42%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dev-naresh608&theme=radical&hide_border=true&background=082f33&stroke=22D3EE&ring=06B6D4&fire=22D3EE&currStreakLabel=CFFAFE" width="65%"/>
-
-</div>
-
----
 ## 🟣 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-naresh608&theme=react-dark&bg_color=082f33&color=22D3EE&line=06B6D4&point=CFFAFE&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dev-naresh608/dev-naresh608/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 

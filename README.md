@@ -174,20 +174,6 @@ CGPA: **7.7**
 
 ---
 
-## 🟣 Coding Profiles
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-0891b2?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-1E3A8A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-155e75?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-0D9488?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-*(Add your profile links to activate live badges — placeholders shown above)*
-
-</div>
-
----
 ## 🟣 Contribution Graph
 
 <div align="center">

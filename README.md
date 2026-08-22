@@ -72,16 +72,16 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 
 | Domain | Experience | Details |
 |---|:---:|---|
-| REST APIs | ⭐⭐⭐⭐⭐ | Resource-driven endpoint design, versioning, pagination, and consistent error contracts |
-| Authentication | ⭐⭐⭐⭐⭐ | JWT-based access & refresh token flows, secure session handling |
-| RBAC | ⭐⭐⭐⭐ | Role-based route guarding across multi-actor systems (customer/seller/admin/driver) |
-| Database Design | ⭐⭐⭐⭐ | Normalized & embedded MongoDB schemas, relational modeling in MySQL |
-| Caching | ⭐⭐⭐ | Response caching strategies, exploring Redis for session & query caching |
-| Performance | ⭐⭐⭐⭐ | Query optimization, indexing, N+1 avoidance, payload minimization |
-| Scalable Architecture | ⭐⭐⭐⭐ | Modular service layers, separation of concerns, horizontally-scalable patterns |
-| API Security | ⭐⭐⭐⭐ | Input validation, rate limiting, sanitization, secure headers |
-| Clean Code | ⭐⭐⭐⭐⭐ | Consistent conventions, SOLID principles, readable and testable modules |
-| Component Architecture | ⭐⭐⭐⭐⭐ | Composable, reusable, prop-driven React component systems |
+| REST APIs | Resource-driven endpoint design, versioning, pagination, and consistent error contracts |
+| Authentication | JWT-based access & refresh token flows, secure session handling |
+| RBAC | Role-based route guarding across multi-actor systems (customer/seller/admin/driver) |
+| Database Design | Normalized & embedded MongoDB schemas, relational modeling in MySQL |
+| Caching | Response caching strategies, exploring Redis for session & query caching |
+| Performance | Query optimization, indexing, N+1 avoidance, payload minimization |
+| Scalable Architecture | Modular service layers, separation of concerns, horizontally-scalable patterns |
+| API Security |  Input validation, rate limiting, sanitization, secure headers |
+| Clean Code | Consistent conventions, SOLID principles, readable and testable modules |
+| Component Architecture | Composable, reusable, prop-driven React component systems |
 ---
 
 ## 🟣 Experience

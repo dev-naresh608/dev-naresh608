@@ -68,49 +68,6 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 
 ---
 
-## 🟣 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-<img src="https://img.shields.io/badge/React%20Router-0891b2?style=flat-square&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-1E3A8A?style=flat-square&logo=axios&logoColor=white"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://img.shields.io/badge/REST%20APIs-0D9488?style=flat-square&logo=fastapi&logoColor=white"/>
-
-**Authentication**
-
-<img src="https://img.shields.io/badge/JWT-1E3A8A?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-0891b2?style=flat-square&logo=auth0&logoColor=white"/>
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://img.shields.io/badge/Mongoose-155e75?style=flat-square&logo=mongoose&logoColor=white"/>
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=redis,kafka,docker,aws" />
-<img src="https://img.shields.io/badge/System%20Design-06B6D4?style=flat-square&logo=cachet&logoColor=white"/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-
-</div>
-
----
-
 ## 🟣 Backend Engineering Expertise
 
 | Domain | Experience | Details |

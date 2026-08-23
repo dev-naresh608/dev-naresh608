@@ -70,8 +70,8 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 
 ## 🟣 Backend Engineering Expertise
 
-| Domain | Experience | Details |
-|---|:---:|---|
+| Domain | Experience |
+|---|:---:|
 | REST APIs | Resource-driven endpoint design, versioning, pagination, and consistent error contracts |
 | Authentication | JWT-based access & refresh token flows, secure session handling |
 | RBAC | Role-based route guarding across multi-actor systems (customer/seller/admin/driver) |

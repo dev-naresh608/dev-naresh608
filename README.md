@@ -132,16 +132,6 @@ CGPA: **7.7**
 
 ---
 
-## 🟣 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-naresh608&theme=react-dark&bg_color=082f33&color=22D3EE&line=06B6D4&point=CFFAFE&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🟣 Current Focus
 
 ```yaml

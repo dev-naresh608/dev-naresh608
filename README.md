@@ -102,7 +102,8 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 ## 🟣 Education
 
 **Bachelor of Engineering — Information Technology**
-Vishwakarma Government Engineering College
+
+Vishwakarma Government Engineering College - GTU | 
 CGPA: **7.7**
 
 ---

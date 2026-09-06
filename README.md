@@ -68,8 +68,6 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 
 ---
 
-## 🟣 Backend Engineering Expertise
-
 ## 🟣 Experience
 
 **Frontend Developer Intern**

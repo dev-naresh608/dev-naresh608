@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:082f33,50:155e75,100:0891b2&height=260&section=header&text=Naresh%20Chaudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/dev-naresh608">
@@ -9,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/Bachelor%20of%20Engineering-Information%20Technology-0891b2?style=for-the-badge&labelColor=082f33"/>
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=082f33"/>
-<img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack%20Roles-0D9488?style=for-the-badge&logo=handshake&logoColor=white&labelColor=082f33"/>
 
 <br/>
 
@@ -57,20 +55,11 @@ My day-to-day work spans:
 
 I enjoy solving real-world engineering problems — the kind that show up in production, not just in tutorials — and I take pride in writing code that a teammate can pick up a year later and immediately understand.
 
-<div align="center">
-
-### 🎯 Open To
-
-| Frontend Engineer | React Developer | Full Stack Developer | Software Engineer |
-|:---:|:---:|:---:|:---:|
-
-</div>
-
 ---
 
 ## 🟣 Experience
 
-**Frontend Developer Intern**
+**Frontend Developer Intern**  
 *Aavishkruti Solutions · Jan 2026 – Jun 2026*
 
 - Built reusable, prop-driven React components adopted across multiple feature teams
@@ -87,7 +76,7 @@ I enjoy solving real-world engineering problems — the kind that show up in pro
 
 **Bachelor of Engineering — Information Technology**
 
-Vishwakarma Government Engineering College - GTU | 
+Vishwakarma Government Engineering College - GTU |  
 CGPA: **7.7**
 
 ---
@@ -135,12 +124,6 @@ exploring:
   - Microservices
   - Distributed Systems
   - Scalable Backend Engineering
-
-open_to:
-  - Software Engineer
-  - Frontend Engineer
-  - React Developer
-  - Full Stack Developer
 ```
 
 ---

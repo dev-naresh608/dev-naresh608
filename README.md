@@ -105,29 +105,6 @@ CGPA: **7.7**
 
 ---
 
-## 🟣 Current Focus
-
-```yaml
-learning:
-  - Redis
-  - Kafka
-  - Docker
-  - AWS
-  - System Design
-
-building:
-  - EdgeSync
-  - Open Source Contributions
-  - Premium SaaS Side Projects
-
-exploring:
-  - Microservices
-  - Distributed Systems
-  - Scalable Backend Engineering
-```
-
----
-
 ## 🟣 Connect
 
 <div align="center">

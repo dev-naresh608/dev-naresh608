@@ -93,18 +93,6 @@ CGPA: **7.7**
 
 ---
 
-## 🟣 Certifications
-
-**Microsoft**
-
-<img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-**IBM**
-
-<img src="https://img.shields.io/badge/IBM%20SkillsBuild%20AI%20Internship-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
----
-
 ## 🟣 Connect
 
 <div align="center">
